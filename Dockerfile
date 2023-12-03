@@ -1,4 +1,4 @@
-FROM node:19
+FROM node:20
 USER root
 
 RUN npm i @teambit/bvm -g
